@@ -121,7 +121,7 @@ a {
   width: 200px;
 }
 #promotion {
-
+  transform: rotate(-5deg);
   align-items: center;
   text-align: center;
   font-size: 20px;
